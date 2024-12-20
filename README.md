@@ -18,27 +18,9 @@ Simple CRUD website by combining Laravel 11, React, and Inertia Frameworks.
 
 ## Screenshots
 
-<div style="display: flex; overflow: hidden; width: 100%; position: relative;">
-  <div style="display: flex; transition: transform 0.5s ease-in-out;">
-    <img src="./Documentation/Dashboard.png" alt="Login versi desktop" style="width: 100%; max-width: 100%;"/>
-    <img src="./Documentation/Add Post.png" alt="Dashboard versi desktop" style="width: 100%; max-width: 100%;"/>
-    <img src="./Documentation/List Post.png" alt="Halaman Exam Versi Desktop" style="width: 100%; max-width: 100%;"/>
-  </div>
-  <button onclick="moveCarousel(-1)" style="position: absolute; top: 50%; left: 0; background-color: rgba(0,0,0,0.5); color: white; border: none; padding: 10px;">&#10094;</button>
-  <button onclick="moveCarousel(1)" style="position: absolute; top: 50%; right: 0; background-color: rgba(0,0,0,0.5); color: white; border: none; padding: 10px;">&#10095;</button>
-</div>
-
-<script>
-  let currentIndex = 0;
-
-  function moveCarousel(direction) {
-    const carousel = document.querySelector('div > div');
-    const images = carousel.querySelectorAll('img');
-    const totalImages = images.length;
-    currentIndex = (currentIndex + direction + totalImages) % totalImages;
-    carousel.style.transform = `translateX(-${currentIndex * 100}%)`;
-  }
-</script>
+![App Screenshot](./Documentation/1.%20Login%20versi%20desktop.png)
+![App Screenshot](./Documentation/2.%20Dashboard/Dashboard%20versi%20desktop.png)
+![App Screenshot](./Documentation/Peserta%20Ujian/Exams/Halaman%20Exam%20Versi%20Desktop.png)
 
 
 ## Run Locally
