@@ -18,9 +18,9 @@ Simple CRUD website by combining Laravel 11, React, and Inertia Frameworks.
 
 ## Screenshots
 
-![App Screenshot](./Documentation/1.%20Login%20versi%20desktop.png)
-![App Screenshot](./Documentation/2.%20Dashboard/Dashboard%20versi%20desktop.png)
-![App Screenshot](./Documentation/Peserta%20Ujian/Exams/Halaman%20Exam%20Versi%20Desktop.png)
+![App Screenshot](./Documentation/Dashboard.png)
+![App Screenshot](./Documentation/Add%20Post.png)
+![App Screenshot](./Documentation/List%20Post.png)
 
 
 ## Run Locally
