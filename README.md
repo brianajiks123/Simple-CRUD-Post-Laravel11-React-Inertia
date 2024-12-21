@@ -28,43 +28,43 @@ Simple CRUD website by combining Laravel 11, React, and Inertia Frameworks.
 Clone the project
 
 ```bash
-    git clone https://github.com/brianajiks123/Simple-CRUD-Post-Laravel11-React-Inertia.git
+git clone https://github.com/brianajiks123/Simple-CRUD-Post-Laravel11-React-Inertia.git
 ```
 
 Go to the project directory
 
 ```bash
-    cd Simple-CRUD-Post-Laravel11-React-Inertia
+cd Simple-CRUD-Post-Laravel11-React-Inertia
 ```
 
 Install Dependencies (Laravel)
 
 ```bash
-    composer install
+composer install
 ```
 
 Install Dependencies (Node)
 
 ```bash
-    npm install
+npm install
 ```
 
 Migrate Database (make sure already setup your environment in the .env file)
 
 ```bash
-    php artisan migrate
+php artisan migrate
 ```
 
 Running Runtime
 
 ```bash
-    npm run dev
+npm run dev
 ```
 
 Running Development
 
 ```bash
-    php artisan serve
+php artisan serve
 ```
 
 
