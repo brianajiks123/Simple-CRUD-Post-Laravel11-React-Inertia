@@ -4,7 +4,7 @@ Simple CRUD website by combining Laravel 11, React, and Inertia Frameworks.
 
 ## Prerequisite:
 
-- Composer
+- Composer >= 2.8
 - PHP >= 8.3
 - Node >= 22
 
