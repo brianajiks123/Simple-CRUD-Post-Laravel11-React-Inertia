@@ -18,8 +18,6 @@ Simple CRUD website by combining Laravel 11, React, and Inertia Frameworks.
 
 ## Screenshots
 
-![App Screenshot](./Documentation/Dashboard.png)
-![App Screenshot](./Documentation/Add%20Post.png)
 ![App Screenshot](./Documentation/List%20Post.png)
 
 
